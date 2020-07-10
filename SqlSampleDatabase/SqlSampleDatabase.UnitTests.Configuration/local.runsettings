@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="ConnectionString" value="Data Source=.;Initial Catalog=SqlSampleDatabase;Integrated Security=True;Connect Timeout=90;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False;"/>
+    <Parameter name="SqlCommandTimeoutSeconds" value="60" />
+    <Parameter name="TransactionScopeEnabled" value="false" />
+  </TestRunParameters>
+</RunSettings>
